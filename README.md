@@ -1,2 +1,1 @@
-BebeCam & BebeView Landing Page
-Copyright 2017 Exit6
+BebeCam & BebeView Landing Page - Copyright 2017 Exit6
